@@ -1,0 +1,14 @@
+title        : "nick909"
+description  : "nick909's site"
+repo         : "nick9088/testnick909"
+markdown_ext : "markdown,mkdown,mkdn,mkd,md,html"
+
+defaults:
+  - values:
+      layout: "default"
+
+plugins:
+  - "jekyll-github-metadata"
+
+sass:
+  sass_dir: _sass
